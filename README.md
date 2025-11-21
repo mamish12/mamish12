@@ -21,10 +21,10 @@
   <a href="mailto:farzeenaliarif786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
+    <a href="https://www.youtube.com/@mklearning6468" target="_blank">
      <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
+  <a href="linkedin.com/in/er-manish-kumar-b08003209" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -32,8 +32,8 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
-    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,supabase,prisma,firebase,mongodb,nextjs,nuxt,graphql,jenkins,terraform,aws,ansible,grafana,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=github,tailwind,git,linux,docker,kubernetes,gitlab" />
+    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,mongodb,graphql,jenkins,aws,grafana" /><br>
 </div>
 <br/>
 <hr/>
