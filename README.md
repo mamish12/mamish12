@@ -6,7 +6,7 @@
 </h2>
 
 <div align="center"> 
- I’m <b>Farzeen Ali</b> – Founder & Creator of <a href='https://www.youtube.com/@TheTechzeen'>The Techzeen</a> 🎥, a fast-growing YouTube channel focused on <b>Programming, Cyber Security, DevOps, and Full Stack Development</b>. My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
+ I’m <b>Manish Sahu</b> –Creator of <a href='https://www.youtube.com/@mklearning6468'>CodeWithManish</a> 🎥, a fast-growing YouTube channel focused on <b>Programming, Cyber Security, DevOps, and Full Stack Development</b>. My mission is to simplify complex concepts with real-world projects and tutorials, empowering learners to grow from absolute beginners to job-ready professionals. 🚀
  <br><br>
  💻 As a <b>Full Stack Web & Cross-Platform Mobile App Engineer</b>, I work with cutting-edge technologies like <b>React.js, React Native, Next.js 15, Nuxt.js, Angular 19, Firebase, Supabase, Prisma, Node.js, Express.js, NestJS, MongoDB, and PostgreSQL</b> to build scalable and high-performing applications.
  <br><br>
